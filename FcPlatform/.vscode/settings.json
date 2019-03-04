@@ -1,0 +1,26 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/*e2e": true,
+    "**/.editorconfig": true,
+    "**/.gitignore": true,
+    "**/.gitkeep": true,
+    "**/.prettierrc": true,
+    "**/jest.config.js": true,
+    "**/karma.conf.js": true,
+    "**/package-lock.json": true,
+    "**/README.md": true,
+    "**/tslint.json": true,
+    "**/tsconfig.spec.json": true,
+    "**/test-setup.ts": true,
+    "**/*spec.ts": true,
+    "**/test.ts": true,
+    "**/browserslist": true,
+    "**/.prettierignore": true,
+    "**/nx.json": true,
+    "tools/": true
+  },
+  "git.ignoreLimitWarning": true
+}
